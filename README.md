@@ -1,24 +1,24 @@
 ## Introduction
 
 
-<b>Discipline | <b>Computer Science & Engineering
+<b>Discipline | <b>Fill your discipline name here
 :--|:--|
-<b> Lab | <b> Digital Electronics Lab
-<b> Experiment|     <b> 1127 To study a BCD to 7 Segment LED display decoder as an example of a multiple input and multiple output combinational digital circuit.
+<b> Lab | <b> Fill your lab name here
+<b> Experiment|     <b> Fill your experiment name and number here
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Dr. SANTOSH BISWAS
+<b>Name of Developer | <b> Fill the name of experiment owner here 
 :--|:--|
-<b> Institute | <b> IIT Guwahati 
-<b> Email id|     <b>  santosh_biswas@iitg.ac.in
-<b> Department |  Computer Science & Engineering
+<b> Institute | <b>  
+<b> Email id|     <b>  
+<b> Department |  
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 |Hrishikesh Baruah | Project Staff | Computer Science & Engineering | IITG | hrishikeshbaruah@rnd.iitg.ac.in
-2 |Sudarshana Sarma | Project Staff | Computer Science & Engineering | IITG  | sudarshana91@rnd.iitg.ac.in
+1 | . | . | . | . | .
+2 | . | . | . | . | .
