@@ -224,6 +224,6 @@ var retriveConnectionsFromDB = function(expId){
 
 $(document).ready(function() {
     //$('#cktBody').css({'height':$(window).height() - 90});
-    $('#sideBar').css({'height':$(window).height() - 90});
+    $('#sideBr').css({'height':$(window).height() - 90});
     setUI();
 });
