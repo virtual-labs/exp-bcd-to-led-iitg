@@ -61,10 +61,10 @@ div.inputButtonsRow{
 #mainContainer{
 }
 
-#sideBar{
+#sideBr{
     float:left;
     width:20%;
-    min-height: 550px;
+    height: 550px;
     /*background-color: rgb(255, 255, 102);*/
     background-image: url("../images/desk.jpg");
     /*background: #80B5C8;**/
