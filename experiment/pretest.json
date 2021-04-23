@@ -1,1 +1,28 @@
-[{"question":"1.Binary coded decimal is a combination of:","answers":{"a":"Two binary digits","b":"Three binary digits","c":"Four binary digits","d":"None of the Mentioned"},"correctAnswer":"c"},{"question":"2.Code is a symbolic representation of __________ information:","answers":{"a":"Continuous","b":"Discrete","c":"Binary","d":"None of the Mentioned"},"correctAnswer":"a"},{"question":"3.When numbers, letters or words are represented by a special group of symbols, this process is called :","answers":{"a":"Decoding","b":"Encoding","c":"Coding","d":"None of the Mentioned"},"correctAnswer":"c"}]
+[{
+	"question": "1.Binary coded decimal is a combination of:",
+	"answers": {
+		"a": "Two binary digits",
+		"b": "Three binary digits",
+		"c": "Four binary digits",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2.Code is a symbolic representation of __________ information:",
+	"answers": {
+		"a": "Continuous",
+		"b": "Discrete",
+		"c": "Binary",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "3.When numbers, letters or words are represented by a special group of symbols, this process is called :",
+	"answers": {
+		"a": "Decoding",
+		"b": "Encoding",
+		"c": "Coding",
+		"d": "None of the Mentioned"
+	},
+	"correctAnswer": "c"
+}]
