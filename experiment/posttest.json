@@ -1,1 +1,19 @@
-[{"question":"1.The decimal number 10 is represented in its BCD form as:","answers":{"a":"1010","b":"01010","c":"00010000","d":"001010"},"correctAnswer":"d"},{"question":"2. The output sum of two decimal digits can be represented in","answers":{"a":"Gray Code","b":"Excess-3","c":"BCD","d":"Hexadecimal"},"correctAnswer":"c"}]
+[{
+	"question": "1.The decimal number 10 is represented in its BCD form as:",
+	"answers": {
+		"a": "1010",
+		"b": "01010",
+		"c": "00010000",
+		"d": "001010"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "2. The output sum of two decimal digits can be represented in",
+	"answers": {
+		"a": "Gray Code",
+		"b": "Excess-3",
+		"c": "BCD",
+		"d": "Hexadecimal"
+	},
+	"correctAnswer": "c"
+}]
